@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-RememberMeApplication<remember-me>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "jp.evolveit.kouki_murakami.rememberme.RememberMeApplication",
+      "projectName": "remember-me",
+      "args": ""
+    }
+  ]
+}
